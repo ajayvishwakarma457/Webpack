@@ -5,3 +5,13 @@ Plugins can:
   3. Clean old builds (CleanWebpackPlugin)
   4. Define environment variables (DefinePlugin)
   5. Extract CSS into separate files (MiniCssExtractPlugin)
+
+
+🔹 Widely Used Plugins in Industry
+  1. HtmlWebpackPlugin
+  2. MiniCssExtractPlugin
+  3. CleanWebpackPlugin
+  4. DefinePlugin
+  5. HotModuleReplacementPlugin
+  6. TerserWebpackPlugin
+  7. BundleAnalyzerPlugin
