@@ -1,0 +1,7 @@
+Plugins can:
+
+  1. Optimize bundles (e.g. TerserWebpackPlugin → minify JS)
+  2. Generate files automatically (e.g. HtmlWebpackPlugin)
+  3. Clean old builds (CleanWebpackPlugin)
+  4. Define environment variables (DefinePlugin)
+  5. Extract CSS into separate files (MiniCssExtractPlugin)
