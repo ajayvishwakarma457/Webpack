@@ -1,0 +1,36 @@
+🔹 Step-by-Step Plugin Practice Roadmap
+
+  1. HtmlWebpackPlugin (must-have in every project)
+      Auto-generates an index.html in dist/.
+      Injects <script src="bundle.js"> automatically.
+      👉 First plugin we’ll practice.
+  
+  
+  2. CleanWebpackPlugin
+      Cleans the dist/ folder before every new build.
+      Prevents old files from piling up.
+  
+  3. DefinePlugin
+      Injects environment variables into your app.
+      👉 Example: process.env.NODE_ENV.
+  
+  4. MiniCssExtractPlugin
+      Extracts CSS into separate files (instead of keeping it inside JS).
+      Industry standard for production.
+  
+  5. HotModuleReplacementPlugin
+      Enables hot reloading during development.
+      No full page reload, only updates changed modules.
+  
+  6. TerserWebpackPlugin
+      Minifies and optimizes JS (production builds).
+  
+  7. OptimizeCssAssetsPlugin / css-minimizer-webpack-plugin
+      Minifies CSS.
+  
+  8. BundleAnalyzerPlugin
+      Visual report of your bundle size.
+      👉 Helps optimize performance.
+  
+  ✅ With these, you’ll cover all major plugins used in industry.
+  ✅ We can also touch some advanced ones (copy assets, service workers, etc.), but the above are the core must-knows.
