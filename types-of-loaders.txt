@@ -1,0 +1,20 @@
+Here’s a list of the most common loaders used in the industry 🔥
+
+  1. babel-loader
+  2. ts-loader
+  3. css-loader
+  4. style-loader
+  5. sass-loader
+  6. postcss-loader
+  7. less-loader
+  8. file-loader (deprecated → replaced by asset/resource)
+  9. url-loader (deprecated → replaced by asset/inline)
+  10. asset/resource, asset/inline, asset/source (Webpack 5 built-ins)
+  11. html-loader
+  12. raw-loader
+  13. csv-loader
+  14. xml-loader
+  15. vue-loader (for Vue.js)
+  16. ts-loader / babel-loader with @babel/preset-typescript (TypeScript projects)
+  17. eslint-loader (now replaced by ESLint plugins outside Webpack)
+  18.handlebars-loader / ejs-loader (templating engines)
