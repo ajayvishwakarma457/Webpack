@@ -1,0 +1,9 @@
+🔑 Loader Features
+
+  1. Chaining (executed right → left).
+  2. Sync & Async execution.
+  3. Run in Node.js (full power of Node environment).
+  4. Options (configure behavior like modules: true).
+  5. Export from modules (via package.json).
+  6. Plugins extending loaders (e.g., MiniCssExtractPlugin).
+  7. Emit extra files (e.g., images/fonts with asset/resource).
